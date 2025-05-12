@@ -2,7 +2,7 @@
 
 ## 1. Project Description
 
-Dbank is a decentralized banking application built on the Internet Computer (IC) blockchain. This project aims to replicate and improve upon traditional banking functionalities by leveraging the unique capabilities of the IC.  It allows users to create accounts, deposit ICP tokens, and earn interest over time.  Dbank seeks to provide a transparent, secure, and efficient alternative to conventional banking systems, eliminating the need for intermediaries and offering greater control to users over their assets.
+Dbank is a Web3 decentralized banking application built on the Internet Computer (IC) blockchain. This project aims to replicate and improve upon traditional banking functionalities by leveraging the unique capabilities of the IC.  It allows users to create accounts, deposit ICP tokens, and earn interest over time.  Dbank seeks to provide a transparent, secure, and efficient alternative to conventional banking systems, eliminating the need for intermediaries and offering greater control to users over their assets.
 
 The core idea is to demonstrate how blockchain technology can revolutionize financial services. Dbank showcases the potential for decentralized finance (DeFi) to offer services like savings accounts with interest, but in a trustless and censorship-resistant manner.  It is designed to be a practical example, highlighting the advantages of decentralization, such as continuous operation and resistance to single points of failure.  The application emphasizes the immutability and security inherent in blockchain technology, ensuring that user transactions and data are protected.
 
